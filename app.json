@@ -1,0 +1,25 @@
+{
+  "id": "e27aa8f8-88a8-4231-b110-48f778deba32",
+  "name": "PurchaseRequisition",
+  "publisher": "Govinda",
+  "version": "1.0.0.56",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 70200
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
